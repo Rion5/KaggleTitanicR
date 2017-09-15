@@ -9,7 +9,7 @@ One of the reasons that the shipwreck led to such loss of life was that there we
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
 
-To properly run files, make sure to ...
+To properly run files, make sure ...
 1) Change the working directory to the correct path.
 2) If you need to install packages, I've included install package lines. Just remove the '#' before 'install.packages(...)' to remove the comment.
 
