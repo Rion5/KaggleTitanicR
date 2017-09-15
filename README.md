@@ -8,3 +8,8 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 One of the reasons that the shipwreck led to such loss of life was that there were not enough lifeboats for the passengers and crew. Although there was some element of luck involved in surviving the sinking, some groups of people were more likely to survive than others, such as women, children, and the upper-class.
 
 In this challenge, we ask you to complete the analysis of what sorts of people were likely to survive. In particular, we ask you to apply the tools of machine learning to predict which passengers survived the tragedy.
+
+To properly run files, make sure to ...
+1) Change the working directory to the correct path.
+2) If you need to install packages, I've included install package lines. Just remove the '#' before 'install.packages(...)' to remove the comment.
+
